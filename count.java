@@ -1,6 +1,6 @@
-/* Name: Denver Wills
+/* Authors: Denver Wills & Will Hughes
  * 
- * Date: 8/23/2024
+ * Date: 9/3/2024
  * 
  * Problem Statement: 
  * Write a program that plays the Hi-Lo guessing game with numbers. The program should pick a
